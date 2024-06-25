@@ -56,7 +56,7 @@ anticheat:
       hide-itemmeta-with-visual-effects: false
 chunks:
   auto-save-interval: default
-  delay-chunk-unloads-by: 10s
+  delay-chunk-unloads-by: 15s
   entity-per-chunk-save-limit:
     area_effect_cloud: 8
     arrow: 8
@@ -78,7 +78,7 @@ chunks:
     wither_skull: 4
   fixed-chunk-inhabited-time: -1
   flush-regions-on-save: false
-  max-auto-save-chunks-per-tick: 12
+  max-auto-save-chunks-per-tick: 7
   prevent-moving-into-unloaded-chunks: true
 collisions:
   allow-player-cramming-damage: false
