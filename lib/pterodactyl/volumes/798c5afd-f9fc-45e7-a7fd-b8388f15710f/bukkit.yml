@@ -30,3 +30,6 @@ ticks-per:
   ambient-spawns: 200
   autosave: 6000
 aliases: now-in-commands.yml
+worlds:
+  world:
+    biome-provider: Single-Biome-World:DESERT
