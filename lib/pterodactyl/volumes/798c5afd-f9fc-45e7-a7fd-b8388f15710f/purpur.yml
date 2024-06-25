@@ -35,9 +35,9 @@ settings:
   register-minecraft-debug-commands: false
   bee-count-payload: false
   tps-catchup: true
-  server-mod-name: Purpur
+  server-mod-name: Gapplehost
   clamp-attributes: true
-  use-alternate-keepalive: false
+  use-alternate-keepalive: true
   disable-give-dropping: false
   fix-projectile-looting-transfer: false
   limit-armor: true
